@@ -15,7 +15,7 @@ Actualmente estoy formándome en **Diplomatura en Programación Web Full Stack -
 
 ## 💻 Proyectos Destacados
 
-| **Mercado Libre Clone** | Recreación de la interfaz y funcionalidades del marketplace, con foco en componentes reutilizables y navegación dinámica. | React, CSS, JavaScript | [https://github.com/BahlMartin/Mercado-CasiLibre](https://mercado-casi-libre.vercel.app/) |
+| **Mercado Libre Clone** | Recreación de la interfaz y funcionalidades del marketplace, con foco en componentes reutilizables y navegación dinámica. | React, CSS, JavaScript | [https://github.com/BahlMartin/Mercado-CasiLibre] [https://mercado-casi-libre.vercel.app/] |
 
 ---
 
