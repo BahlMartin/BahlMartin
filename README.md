@@ -31,7 +31,11 @@ Actualmente estoy formándome en **Diplomatura en Programación Web Full Stack -
 
 ## 📚 Formación  
 
-- **Tecnicatura en Programación** – Universidad Nacional Guillermo Brown *(2023 – Presente)* - **Licenciatura en Física Médica** – Universidad Nacional de La Plata *(2020 – Presente)* - **Curso de Especialización Profesional en Programador Web** - **Curso de Machine Learning, Pandas y Numpy – Univ. de Salta** - **Curso de Tester QA con Playwright**
+- **Tecnicatura en Programación** – Universidad Nacional Guillermo Brown *(2023 – Presente)*
+- **Licenciatura en Física Médica** – Universidad Nacional de La Plata *(2020 – Presente)*
+- **Curso de Especialización Profesional en Programador Web**
+- **Curso de Machine Learning, Pandas y Numpy – Univ. de Salta**
+- **Curso de Tester QA con Playwright**
 - **Curso de desarrollador Front-End developer - UTN.BA**
 
 ---
