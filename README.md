@@ -1,7 +1,7 @@
 # Hola, soy Martín Bahl  
 
 Soy estudiante de **Física Médica** y **Programación**, con interés en el desarrollo web y el área de **QA Testing (manual y automatizado)**.  
-Actualmente estoy formándome en **automatización de pruebas con Playwright**, además de reforzar mis conocimientos en **Python, JavaScript, HTML y CSS**.  
+Actualmente estoy formándome en **Diplomatura en Programación Web Full Stack - UTN.BA**.
 
 ---
 
@@ -13,9 +13,16 @@ Actualmente estoy formándome en **automatización de pruebas con Playwright**, 
 
 ---
 
+## 💻 Proyectos Destacados
+
+| **Mercado Libre Clone** | Recreación de la interfaz y funcionalidades del marketplace, con foco en componentes reutilizables y navegación dinámica. | React, CSS, JavaScript | [https://github.com/BahlMartin/Mercado-CasiLibre](https://mercado-casi-libre.vercel.app/) |
+
+---
+
 ## 🧰 Tecnologías y Herramientas  
+- **Framework:** React  
 - **Lenguajes:** Python (avanzado), JavaScript, HTML, CSS  
-- **Testing y QA:** Playwright (automatización), pruebas funcionales, pruebas de caja negra, postman 
+- **Testing y QA:** Playwright (automatización), pruebas funcionales, pruebas de caja negra, Postman 
 - **Control de versiones:** Git & GitHub  
 - **Ofimática:** Microsoft Office (Word, Excel, PowerPoint)  
 - **Otros:** Machine Learning (scikit-learn), análisis de datos (Pandas, Numpy)  
@@ -23,17 +30,15 @@ Actualmente estoy formándome en **automatización de pruebas con Playwright**, 
 ---
 
 ## 📚 Formación  
-- **Tecnicatura en Programación** – Universidad Nacional Guillermo Brown *(2023 – Presente)*  
-- **Licenciatura en Física Médica** – Universidad Nacional de La Plata *(2020 – Presente)*  
-- **Curso de Especialización Profesional en Programador Web**  
-- **Curso de Machine Learning, Pandas y Numpy – Univ. de Salta**  
-- **Curso de Tester QA con Playwright – En curso**  
 
-
-## 📫 Contacto  
-- 📧 **martinbahl11@gmail.com**  
-- 🌍 Buenos Aires, Argentina  
+- **Tecnicatura en Programación** – Universidad Nacional Guillermo Brown *(2023 – Presente)* - **Licenciatura en Física Médica** – Universidad Nacional de La Plata *(2020 – Presente)* - **Curso de Especialización Profesional en Programador Web** - **Curso de Machine Learning, Pandas y Numpy – Univ. de Salta** - **Curso de Tester QA con Playwright**
+- **Curso de desarrollador Front-End developer - UTN.BA**
 
 ---
 
-✨ *“El aprendizaje continuo y la práctica diaria son las claves para crecer como profesional en IT.”*  
+## 📫 Contacto  
+- 📧 **martinbahl11@gmail.com** - 🌍 Buenos Aires, Argentina  
+
+---
+
+✨ *“El aprendizaje continuo y la práctica diaria son las claves para crecer como profesional en IT.”* ```
