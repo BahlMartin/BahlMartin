@@ -1,6 +1,6 @@
 # Hola, soy Martín Bahl  
 
-Soy estudiante de **Física Médica** y **Programación**, con interés en el desarrollo web y el área de **QA Testing (manual y automatizado)**.  
+Soy estudiante de **Programación**, con interés en el desarrollo web y el área de **QA Testing (manual y automatizado)**.  
 Actualmente estoy formándome en **Diplomatura en Programación Web Full Stack - UTN.BA**.
 
 ---
