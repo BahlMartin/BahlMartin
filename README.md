@@ -52,8 +52,7 @@ Estudiante de **Tecnicatura en Programación** y **Física Médica**, apasionado
 
 ## 📫 Conectemos
 
-- 📧 **Email:** [martinbahl11@gmail.com](mailto:martinbahl11@gmail.com)
-- 💼 **GitHub:** [@BahlMartin](https://github.com/BahlMartin)
+- 📧 **Email:** [martinezequielbahl0@gmail.com](mailto:martinezequielbahl0@gmail.com)
 - 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
