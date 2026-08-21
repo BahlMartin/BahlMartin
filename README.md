@@ -1,10 +1,10 @@
-# Hi there, soy Martín Bahl 👋
+# soy Martín Bahl 👋
 
 **QA Tester (Manual & Automatizado) | Desarrollador Web Full Stack & Python**
 
 Estudiante de **Tecnicatura en Programación** y **Física Médica**, apasionado por la calidad de software (QA Testing), el desarrollo web frontend/backend y el análisis de datos / Machine Learning.
 
-📍 **Buenos Aires, Argentina** | 📧 [martinbahl11@gmail.com](mailto:martinbahl11@gmail.com)
+📍 **Buenos Aires, Argentina** | 📧 [martinezequielbahl0@gmail.com](mailto:martinezequielbahl0@gmail.com)
 
 ---
 
